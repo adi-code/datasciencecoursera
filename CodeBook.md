@@ -1,19 +1,17 @@
----
-title: "CodeBook"
-author: "Adrian Boczkowski"
-date: "Sunday, November 23, 2014"
-output: html_document
----
+#  The CodeBook
 
+## Introduction
 This data is used for "Getting and Cleaning Data" from Coursera. The original
 data can be downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 This data comes from experiments carried out by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto from Smartlab - Non Linear Complex Systems Laboratory. They aquired measurements from inertial sensors (accelerometer, gyroscope), which were built into Samsung Galaxy S II smartphones used by 30 volunteers. After that some features were computed. For more information please read README.txt from http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip.
 
+## Description
 In this case both the training and testing data were merged and only several features were extracted (these, which were described as a mean, a standard deviation or a frequency mean).
 
 If the feature name starts with "time", it was computed using a time domain analysis, similarily if the feature name starts with "frequency", it was computed using a frequency domain analysis. There are two groups of data: a body and a gravity. These two groups were extracted from the raw data using a Butterworth filter. As mentioned above, two inertial sensors were used: an accelerometer and a gyroscope. Several variables were computed: X, Y, Z stand for direction, Magnitude were computed using the Euclidean norm and the body linear acceleration and angular velocity were derived in time to obtain Jerk signals. Frequency domain features were computed using Fast Fourier Transform.
 
+## Feature list
 There are following features in the dataset:
 
 Feature | Domain | Device | Group | Value type | Comment
