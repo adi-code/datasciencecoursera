@@ -18,85 +18,84 @@ There are following features in the dataset:
 
 "names" | "domain" | "device" | "group" | "valueType" | "comment"
 --- | --- | --- | --- | --- | ---
-"timeBodyAccelerometerMeanX" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerMeanY" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerMeanZ" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerStandardDeviationX" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeBodyAccelerometerStandardDeviationY" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeBodyAccelerometerStandardDeviationZ" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeGravityAccelerometerMeanX" | "time" | "accelerometer" | "gravity" | "mean" | "x direction"
-"timeGravityAccelerometerMeanY" | "time" | "accelerometer" | "gravity" | "mean" | "x direction"
-"timeGravityAccelerometerMeanZ" | "time" | "accelerometer" | "gravity" | "mean" | "x direction"
-"timeGravityAccelerometerStandardDeviationX" | "time" | "accelerometer" | "gravity" | "standard deviation" | "x direction"
-"timeGravityAccelerometerStandardDeviationY" | "time" | "accelerometer" | "gravity" | "standard deviation" | "x direction"
-"timeGravityAccelerometerStandardDeviationZ" | "time" | "accelerometer" | "gravity" | "standard deviation" | "x direction"
-"timeBodyAccelerometerJerkMeanX" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerJerkMeanY" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerJerkMeanZ" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerJerkStandardDeviationX" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeBodyAccelerometerJerkStandardDeviationY" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeBodyAccelerometerJerkStandardDeviationZ" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeMeanX" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeMeanY" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeMeanZ" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeStandardDeviationX" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeStandardDeviationY" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeStandardDeviationZ" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeJerkMeanX" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeJerkMeanY" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeJerkMeanZ" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeJerkStandardDeviationX" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeJerkStandardDeviationY" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeJerkStandardDeviationZ" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"timeBodyAccelerometerMagnitudeMean" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerMagnitudeStandardDeviation" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeGravityAccelerometerMagnitudeMean" | "time" | "accelerometer" | "gravity" | "mean" | "x direction"
-"timeGravityAccelerometerMagnitudeStandardDeviation" | "time" | "accelerometer" | "gravity" | "standard deviation" | "x direction"
-"timeBodyAccelerometerJerkMagnitudeMean" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"timeBodyAccelerometerJerkMagnitudeStandardDeviation" | "time" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeMagnitudeMean" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeMagnitudeStandardDeviation" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"timeBodyGyroscopeJerkMagnitudeMean" | "time" | "gyroscope" | "body" | "mean" | "x direction"
-"timeBodyGyroscopeJerkMagnitudeStandardDeviation" | "time" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerMeanX" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerMeanY" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerMeanZ" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerStandardDeviationX" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerStandardDeviationY" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerStandardDeviationZ" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerMeanFrequencyX" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyAccelerometerMeanFrequencyY" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyAccelerometerMeanFrequencyZ" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyAccelerometerJerkMeanX" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerJerkMeanY" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerJerkMeanZ" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerJerkStandardDeviationX" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerJerkStandardDeviationY" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerJerkStandardDeviationZ" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerJerkMeanFrequencyX" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyAccelerometerJerkMeanFrequencyY" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyAccelerometerJerkMeanFrequencyZ" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyGyroscopeMeanX" | "frequency" | "gyroscope" | "body" | "mean" | "x direction"
-"frequencyBodyGyroscopeMeanY" | "frequency" | "gyroscope" | "body" | "mean" | "x direction"
-"frequencyBodyGyroscopeMeanZ" | "frequency" | "gyroscope" | "body" | "mean" | "x direction"
-"frequencyBodyGyroscopeStandardDeviationX" | "frequency" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"frequencyBodyGyroscopeStandardDeviationY" | "frequency" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"frequencyBodyGyroscopeStandardDeviationZ" | "frequency" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"frequencyBodyGyroscopeMeanFrequencyX" | "frequency" | "gyroscope" | "body" | "mean frequency" | "x direction"
-"frequencyBodyGyroscopeMeanFrequencyY" | "frequency" | "gyroscope" | "body" | "mean frequency" | "x direction"
-"frequencyBodyGyroscopeMeanFrequencyZ" | "frequency" | "gyroscope" | "body" | "mean frequency" | "x direction"
-"frequencyBodyAccelerometerMagnitudeMean" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerMagnitudeStandardDeviation" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerMagnitudeMeanFrequency" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyAccelerometerJerkMagnitudeMean" | "frequency" | "accelerometer" | "body" | "mean" | "x direction"
-"frequencyBodyAccelerometerJerkMagnitudeStandardDeviation" | "frequency" | "accelerometer" | "body" | "standard deviation" | "x direction"
-"frequencyBodyAccelerometerJerkMagnitudeMeanFrequency" | "frequency" | "accelerometer" | "body" | "mean frequency" | "x direction"
-"frequencyBodyGyroscopeMagnitudeMean" | "frequency" | "gyroscope" | "body" | "mean" | "x direction"
-"frequencyBodyGyroscopeMagnitudeStandardDeviation" | "frequency" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"frequencyBodyGyroscopeMagnitudeMeanFrequency" | "frequency" | "gyroscope" | "body" | "mean frequency" | "x direction"
-"frequencyBodyGyroscopeJerkMagnitudeMean" | "frequency" | "gyroscope" | "body" | "mean" | "x direction"
-"frequencyBodyGyroscopeJerkMagnitudeStandardDeviation" | "frequency" | "gyroscope" | "body" | "standard deviation" | "x direction"
-"frequencyBodyGyroscopeJerkMagnitudeMeanFrequency" | "frequency" | "gyroscope" | "body" | "mean frequency" | "x direction"
-"activity" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-"subject" | "time" | "accelerometer" | "body" | "mean" | "x direction"
-
+timeBodyAccelerometerMeanX | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerMeanY | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerMeanZ | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerStandardDeviationX | time | accelerometer | body | standard deviation | x direction
+timeBodyAccelerometerStandardDeviationY | time | accelerometer | body | standard deviation | x direction
+timeBodyAccelerometerStandardDeviationZ | time | accelerometer | body | standard deviation | x direction
+timeGravityAccelerometerMeanX | time | accelerometer | gravity | mean | x direction
+timeGravityAccelerometerMeanY | time | accelerometer | gravity | mean | x direction
+timeGravityAccelerometerMeanZ | time | accelerometer | gravity | mean | x direction
+timeGravityAccelerometerStandardDeviationX | time | accelerometer | gravity | standard deviation | x direction
+timeGravityAccelerometerStandardDeviationY | time | accelerometer | gravity | standard deviation | x direction
+timeGravityAccelerometerStandardDeviationZ | time | accelerometer | gravity | standard deviation | x direction
+timeBodyAccelerometerJerkMeanX | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerJerkMeanY | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerJerkMeanZ | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerJerkStandardDeviationX | time | accelerometer | body | standard deviation | x direction
+timeBodyAccelerometerJerkStandardDeviationY | time | accelerometer | body | standard deviation | x direction
+timeBodyAccelerometerJerkStandardDeviationZ | time | accelerometer | body | standard deviation | x direction
+timeBodyGyroscopeMeanX | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeMeanY | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeMeanZ | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeStandardDeviationX | time | gyroscope | body | standard deviation | x direction
+timeBodyGyroscopeStandardDeviationY | time | gyroscope | body | standard deviation | x direction
+timeBodyGyroscopeStandardDeviationZ | time | gyroscope | body | standard deviation | x direction
+timeBodyGyroscopeJerkMeanX | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeJerkMeanY | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeJerkMeanZ | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeJerkStandardDeviationX | time | gyroscope | body | standard deviation | x direction
+timeBodyGyroscopeJerkStandardDeviationY | time | gyroscope | body | standard deviation | x direction
+timeBodyGyroscopeJerkStandardDeviationZ | time | gyroscope | body | standard deviation | x direction
+timeBodyAccelerometerMagnitudeMean | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerMagnitudeStandardDeviation | time | accelerometer | body | standard deviation | x direction
+timeGravityAccelerometerMagnitudeMean | time | accelerometer | gravity | mean | x direction
+timeGravityAccelerometerMagnitudeStandardDeviation | time | accelerometer | gravity | standard deviation | x direction
+timeBodyAccelerometerJerkMagnitudeMean | time | accelerometer | body | mean | x direction
+timeBodyAccelerometerJerkMagnitudeStandardDeviation | time | accelerometer | body | standard deviation | x direction
+timeBodyGyroscopeMagnitudeMean | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeMagnitudeStandardDeviation | time | gyroscope | body | standard deviation | x direction
+timeBodyGyroscopeJerkMagnitudeMean | time | gyroscope | body | mean | x direction
+timeBodyGyroscopeJerkMagnitudeStandardDeviation | time | gyroscope | body | standard deviation | x direction
+frequencyBodyAccelerometerMeanX | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerMeanY | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerMeanZ | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerStandardDeviationX | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerStandardDeviationY | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerStandardDeviationZ | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerMeanFrequencyX | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyAccelerometerMeanFrequencyY | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyAccelerometerMeanFrequencyZ | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyAccelerometerJerkMeanX | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerJerkMeanY | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerJerkMeanZ | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerJerkStandardDeviationX | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerJerkStandardDeviationY | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerJerkStandardDeviationZ | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerJerkMeanFrequencyX | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyAccelerometerJerkMeanFrequencyY | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyAccelerometerJerkMeanFrequencyZ | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyGyroscopeMeanX | frequency | gyroscope | body | mean | x direction
+frequencyBodyGyroscopeMeanY | frequency | gyroscope | body | mean | x direction
+frequencyBodyGyroscopeMeanZ | frequency | gyroscope | body | mean | x direction
+frequencyBodyGyroscopeStandardDeviationX | frequency | gyroscope | body | standard deviation | x direction
+frequencyBodyGyroscopeStandardDeviationY | frequency | gyroscope | body | standard deviation | x direction
+frequencyBodyGyroscopeStandardDeviationZ | frequency | gyroscope | body | standard deviation | x direction
+frequencyBodyGyroscopeMeanFrequencyX | frequency | gyroscope | body | mean frequency | x direction
+frequencyBodyGyroscopeMeanFrequencyY | frequency | gyroscope | body | mean frequency | x direction
+frequencyBodyGyroscopeMeanFrequencyZ | frequency | gyroscope | body | mean frequency | x direction
+frequencyBodyAccelerometerMagnitudeMean | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerMagnitudeStandardDeviation | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerMagnitudeMeanFrequency | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyAccelerometerJerkMagnitudeMean | frequency | accelerometer | body | mean | x direction
+frequencyBodyAccelerometerJerkMagnitudeStandardDeviation | frequency | accelerometer | body | standard deviation | x direction
+frequencyBodyAccelerometerJerkMagnitudeMeanFrequency | frequency | accelerometer | body | mean frequency | x direction
+frequencyBodyGyroscopeMagnitudeMean | frequency | gyroscope | body | mean | x direction
+frequencyBodyGyroscopeMagnitudeStandardDeviation | frequency | gyroscope | body | standard deviation | x direction
+frequencyBodyGyroscopeMagnitudeMeanFrequency | frequency | gyroscope | body | mean frequency | x direction
+frequencyBodyGyroscopeJerkMagnitudeMean | frequency | gyroscope | body | mean | x direction
+frequencyBodyGyroscopeJerkMagnitudeStandardDeviation | frequency | gyroscope | body | standard deviation | x direction
+frequencyBodyGyroscopeJerkMagnitudeMeanFrequency | frequency | gyroscope | body | mean frequency | x direction
+activity | time | accelerometer | body | mean | x direction
+subject | time | accelerometer | body | mean | x direction
