@@ -17,6 +17,7 @@ If the feature name starts with "time", it was computed using a time domain anal
 There are following features in the dataset:
 
 "names" | "domain" | "device" | "group" | "valueType" | "comment"
+--- | --- | --- | --- | --- | ---
 "timeBodyAccelerometerMeanX" | "time" | "accelerometer" | "body" | "mean" | "x direction"
 "timeBodyAccelerometerMeanY" | "time" | "accelerometer" | "body" | "mean" | "x direction"
 "timeBodyAccelerometerMeanZ" | "time" | "accelerometer" | "body" | "mean" | "x direction"
