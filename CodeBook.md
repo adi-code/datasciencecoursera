@@ -97,3 +97,10 @@ frequencyBodyGyroscopeMagnitudeMeanFrequency | frequency | gyroscope | body | me
 frequencyBodyGyroscopeJerkMagnitudeMean | frequency | gyroscope | body | mean | magnitude (jerk)
 frequencyBodyGyroscopeJerkMagnitudeStandardDeviation | frequency | gyroscope | body | standard deviation | magnitude (jerk)
 frequencyBodyGyroscopeJerkMagnitudeMeanFrequency | frequency | gyroscope | body | mean frequency | magnitude (jerk)
+
+## Processing path
+1. Merging data from both test and train datasets.
+2. Extracting features regarding a mean or a standard deviation.
+3. Using descriptive labels for each variable.
+4. Using descriptive values for the "activity" variable.
+5. Computing the average of each variable for every pair (activity, subject) that occurs in the dataset.
